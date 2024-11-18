@@ -1,1 +1,2 @@
-# Hangman-Python
+The goal of a Hangman Game is to guess the name of the movie by guessing the letters (A-Z). In this game, if the player correctly guesses the correct letter that is within the word, the letter appears in its proper location. The user must guess the correct word until a man appears to be hanged, and at that point, the game ends. With each correct guess, the empty boxes get filled with that correct letter. And with each wrong guess different parts of the man start to appear and finally when the number of wrong guesses is over, a hanged man is shown and that’s where the game ends.
+
